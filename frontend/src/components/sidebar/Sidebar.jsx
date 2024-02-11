@@ -1,5 +1,3 @@
-// import React from 'react'
-
 import Conversations from "./Conversations"
 import LogoutButton from "./LogoutButton"
 import SearchInput from "./SearchInput"
@@ -14,5 +12,4 @@ const Sidebar = () => {
     </div>
   )
 }
-
 export default Sidebar
